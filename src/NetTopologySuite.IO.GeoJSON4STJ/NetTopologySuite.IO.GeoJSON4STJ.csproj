@@ -29,6 +29,8 @@
     <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
     <Description>This package contains the System.Text.Json version of the GeoJSON IO library.</Description>
     <PackageTags>NTS;GeoJSON</PackageTags>
+    <Version>2.2.0</Version>
+    <RepositoryUrl>https://github.com/avinet/NetTopologySuite.IO.GeoJSON</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

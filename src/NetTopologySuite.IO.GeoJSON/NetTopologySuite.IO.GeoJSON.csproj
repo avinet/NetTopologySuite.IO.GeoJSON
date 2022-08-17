@@ -30,6 +30,8 @@
     <Description>This package contains the GeoJSON IO library. Portions of this library were 
 	    inspired from an early version of GeoJSON.Net by Jörg Battermann.</Description>
     <PackageTags>NTS;GeoJSON</PackageTags>
+    <Version>2.2.0</Version>
+    <RepositoryUrl>https://github.com/avinet/NetTopologySuite.IO.GeoJSON</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
